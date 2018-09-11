@@ -3,12 +3,20 @@ body {
     font-size: 30px;
   } 
 
-img {
+.small {
+    width: 200px;
+}
+
+.medium {
     width: 200px;
 }
 
 
-div {
-    background: #ccc
-    
+
+.header {
+    background: #0f0;
+}
+
+.content {
+    background: rgb(128, 70, 153);
 }
