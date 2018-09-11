@@ -2,8 +2,13 @@ body {
     background: #ffa;
     font-size: 30px;
   } 
-  
 
-  body {background: #ffa3a3}
-  
-  
+img {
+    width: 200px;
+}
+
+
+div {
+    background: #ccc
+    
+}
