@@ -1,21 +1,35 @@
+
 body {
-    background: #FFFFFF;
-    font-size: 30px;
+    background: #ffffff;
+    font-size: 20px;
+    text-align: Center;
+    font-family: Bulmer Italic, serif;
   } 
 
+h1 { 
+    font-size: 80px;
+    color: black;
+}
+
+h2 {
+    font-size: 30px;
+    color: rgb(65, 66, 77)
+}
+
+p {
+    font-size: 20px;
+    list-style-type: none;
+    color: #ffffff;
+}
+
 .small {
-    width: 200px;
+    width: 10px;
 }
 
 .medium {
-    width: 200px;
+    width: 10px;
 }
 
-
-
-.header {
-    background: #0f0;
-}
 
 .content {
     background: rgb(128, 70, 153);
