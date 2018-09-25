@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+    vertical-align: top;
+}
+
+.square {
+    background: #F8E71C;
+    width: 768px;
+    height: 768px;
+    position: relative;
+}
+
+.rel {
+    position: relative;
+    left: 360px;
+}
