@@ -3,34 +3,26 @@ body {
     background: #ffffff;
     font-size: 20px;
     text-align: Center;
-    font-family: Bulmer Italic, serif;
+    font-family: Bulmer, serif;
   } 
 
 h1 { 
     font-size: 80px;
-    color: black;
+    color: rgb(41, 41, 41);
 }
 
 h2 {
     font-size: 30px;
-    color: rgb(65, 66, 77)
+    color: #595959;
 }
 
 p {
     font-size: 20px;
-    list-style-type: none;
-    color: #ffffff;
+    font-family: Bulmer BT, italic;
 }
 
-.small {
-    width: 10px;
-}
+a {color: #59B48C}
 
-.medium {
-    width: 10px;
-}
+.small {width: 10px;}
 
-
-.content {
-    background: rgb(128, 70, 153);
-}
+.medium {width: 10px;}
