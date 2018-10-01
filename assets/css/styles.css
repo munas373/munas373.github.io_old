@@ -23,6 +23,8 @@ p {
 
 a {color: #59B48C}
 
+a:hover {color: rgb(41, 41, 41)}
+
 .small {width: 10px;}
 
 .medium {width: 10px;}
