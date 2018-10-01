@@ -3,6 +3,11 @@
     vertical-align: top;
 }
 
+.wrapper {
+    width: 768px;
+    margin: auto 0 auto 0;
+}
+
 .square {
     background: #F8E71C;
     width: 768px;
@@ -15,3 +20,67 @@
     left: 365px;
     top: 50px;
 }
+
+.square2 {
+    background: #202665;
+    width: 568px;
+    height: 568px;
+    position: relative;
+    top: 100px;
+    left:100px;
+}
+
+.square3 {
+    background: #009e4f;
+    width: 368px;
+    height: 368px;
+    position: relative;
+    top: 100px;
+    left: 100px;
+}
+
+.strip1 {
+    background: #ED2025;
+    width: 334px;
+    height: 70.75px;
+    position: relative;
+    top: 21px;
+    left: 17px;
+}
+
+.strip2 {
+    background: #ED2025;
+    width: 334px;
+    height: 70.75px;
+    position: relative;
+    top: 86px;
+    left: 0px;
+}
+
+.strip3 {
+    background: #ED2025;
+    width: 334px;
+    height: 70.75px;
+    position: relative;
+    top: 86px;
+    left: 0px;
+}
+
+.strip4 {
+    background: #ED2025;
+    width: 334px;
+    height: 70.75px;
+    position: relative;
+    top: 86px;
+    left: 0px;
+}
+
+.rectangle {
+    background: #D0021B;
+    width: 768px;
+    height: 100px;
+    position: relative;
+    top: 204px;
+    right: 217px;
+}
+
