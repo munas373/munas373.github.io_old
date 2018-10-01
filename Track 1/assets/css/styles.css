@@ -1,0 +1,43 @@
+
+h1 { 
+    font-size: 32px;
+    color: rgb(41, 41, 41);
+    text-align: center;
+    font-family: Bulmer, serif;
+}
+
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 97.5%;
+    top: 70px;
+}
+
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+    font-size: 40px;
+}
+
+
+.centered {
+    position: absolute;
+    top: 615px;
+    left: 670px;
+}
+
+
+.bottom-centered {
+   position: absolute;
+   top: 672px;
+   left: 620px;
+   font-size: 25px;
+   font-family: Bulmer BT, italic; 
+}
+
+p { 
+    text-align: center;
+}
