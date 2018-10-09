@@ -1,43 +1,44 @@
-
-h1 { 
-    font-size: 32px;
+body { 
+    font-size: 20px;
     color: rgb(41, 41, 41);
-    text-align: center;
     font-family: Bulmer, serif;
+    
 }
 
 
-img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 97.5%;
-    top: 70px;
+.parent div{
+    display: inline-block;
+    width: 48%;
+    height: 1100PX;
 }
 
-.container {
+
+.image1 img{
     position: relative;
+    width: 80%;
+    left: -10px;
+    top: 50px;
+}
+
+.image2 img {   
+    position: relative;
+    width: 80%;
+    left: 164px;
+    top: 500px;
+ }
+
+ .Letter1:hover {
+     position: relative;
+     color:rgb(207, 207, 207);
+ }
+ 
+
+p {
     text-align: center;
-    color: white;
-    font-size: 40px;
+    color: #59B48C;
+    font-family: Bulmer BT, italic;
 }
 
-
-.centered {
-    position: absolute;
-    top: 615px;
-    left: 670px;
-}
-
-
-.bottom-centered {
-   position: absolute;
-   top: 672px;
-   left: 620px;
-   font-size: 25px;
-   font-family: Bulmer BT, italic; 
-}
-
-p { 
-    text-align: center;
+a:hover {
+    color: rgb(41, 41, 41);
 }
