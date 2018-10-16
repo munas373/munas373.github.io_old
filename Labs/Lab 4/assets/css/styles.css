@@ -1,0 +1,14 @@
+h1 {
+    color: white;
+    font-size: 80px;
+    text-align: center;
+}
+
+p {
+    color: white;
+    text-align: center;
+    position: relative;
+    top: -60px;
+    font-family: Bulmer BT, italic;
+    font-size: 20px;
+}
