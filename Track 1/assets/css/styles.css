@@ -1,44 +1,93 @@
-body { 
-    font-size: 20px;
-    color: rgb(41, 41, 41);
-    font-family: Bulmer, serif;
-    
+body {
+    background-color: #3E3E3E;
 }
 
 
-.parent div{
-    display: inline-block;
-    width: 48%;
-    height: 1100PX;
+h1{
+    font-family: Bulmer BT, Italic;
+    font-size: 25px;
+    color: white;
+    position: absolute;
+    margin-top: 3%;
+    left: 70px;
+    opacity: 0.2;
 }
 
-
-.image1 img{
-    position: relative;
-    width: 80%;
-    left: -10px;
-    top: 50px;
+h2{
+    font-family: Bulmer MT Std;
+    font-size: 36px;
+    color: white;
+    position: absolute;
+    top: 230px;
+    left: 150px;
 }
 
-.image2 img {   
-    position: relative;
-    width: 80%;
-    left: 164px;
+h3{
+    font-family: Bulmer MT Std;    
+    font-size: 60px;
+    color: white;
+    position: absolute;
+    top: 380px;
+    left: 350px;
+}
+
+h4{
+    font-family: Bulmer MT Std;    
+    font-size: 80px;
+    color: white;
+    position: absolute;
     top: 500px;
- }
-
- .Letter1:hover {
-     position: relative;
-     color:rgb(207, 207, 207);
- }
- 
-
-p {
-    text-align: center;
-    color: #59B48C;
-    font-family: Bulmer BT, italic;
+    left: 600px;
 }
 
-a:hover {
-    color: rgb(41, 41, 41);
+h5{
+    font-family: Bulmer MT Std;    
+    font-size: 80px;
+    color: white;
+    position: absolute;
+    top: 680px;
+    left: 900px;
+}
+
+h6{
+    font-family: Bulmer MT Std, Regular;    
+    font-size: 40px;
+    color: white;
+    position: absolute;
+    top: 1530px;
+    left: 525px;
+}
+
+h7 {
+    font-family: Bulmer BT, Italic;    
+    font-size: 40px;
+    color: white;
+    position: absolute;
+    top: 1620px;
+    left: 584px;
+}
+
+h8 {
+    font-family: Bulmer MT Std;    
+    font-size: 40px;
+    color: white;
+    position: absolute;
+    top: 1625px;
+    left: 860px;
+}
+
+img{
+    position: absolute;
+    left: 890px;
+    width: 40%;
+}
+
+a {
+    font-family: Bulmer MT Std;    
+    font-size: 30px;
+    color: white;
+    margin-bottom: 3%;
+    position: absolute;
+    top: 2600px;
+    left: 60px;
 }

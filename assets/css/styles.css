@@ -12,6 +12,7 @@ html {
 }
 
 .section {
+    margin-top: 3%;
     margin-bottom: 7%;
 }
 
@@ -22,28 +23,14 @@ body {
     font-family: Bulmer, serif;
   } 
 
-h1 { 
-    font-size: 80px;
-    color: rgb(41, 41, 41);
-}
-
-h2 {
-    font-family: Bulmer BT, Italic;
+i {
+    font-family: Bulmer MT Std Display;
     color: rgb(90, 90, 90);
     position: relative;
     top: 400px;
     font-size: 30px;
     opacity: 0.2;
     transition: 0.5s;
-}
-
-i {
-    border: solid rgb(196, 196, 196);
-    border-width: 0 3px 3px 0;
-    display: inline-block;
-    padding: 3px;
-    opacity: 0.2;
-    transition: 0.3s;
   }
 
 .down {
@@ -60,8 +47,8 @@ h3 {
 }
 
 p {
-    font-size: 20px;
-    padding-bottom: 10px;
+    font-size: 15px;
+    padding-bottom: 5px;
     font-family: Bulmer BT, italic;
 }
 
@@ -73,6 +60,5 @@ a {
 
 a:hover {color: rgb(41, 41, 41)}
 
-h2:hover {opacity: 1;}
 
 i:hover {opacity: 1}
