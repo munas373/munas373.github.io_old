@@ -76,6 +76,16 @@ h8 {
     left: 860px;
 }
 
+h9 {
+    font-family: Bulmer MT Std;    
+    font-size: 30px;
+    color: white;
+    margin-bottom: 3%;
+    position: absolute;
+    top: 0;
+    left: 1320px;
+}
+
 img{
     position: absolute;
     left: 890px;
