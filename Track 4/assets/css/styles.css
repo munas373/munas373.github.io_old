@@ -1,0 +1,83 @@
+h1 {
+    font-family: Bulmer BT, Italic;
+    font-size: 25px;
+    color: black; 
+    position: absolute;
+    margin-top: 3%;
+    left: 70px;
+    opacity: 0.5;
+}
+
+.left {
+    position: absolute;
+    top: 160px;
+    left: 0px;
+    width: 38%;
+}
+
+.right {
+    position: absolute;
+    top: 800px;
+    right: 0px;
+    width: 38%;
+}
+
+.right2 {
+    position: absolute;
+    top: 340px;
+    right: 0px;
+    width: 24%;
+}
+
+.right3 {
+    position: absolute;
+    top: 1560px;
+    right: 0px;
+    width: 48%;
+}
+
+
+.text {
+    position: absolute;
+    top: 700px;
+    left: 690px;
+    width: 4%;
+    opacity: 0.7;
+    margin-bottom: 8%;
+}
+
+.left2 {
+    position: absolute;
+    top: 1380px;
+    left: -400px;
+    width: 60%;
+    opacity: 0.2;
+}
+
+
+p {
+    position: absolute;
+    top: 2300px;
+    left: 60px;
+    font-size: 30px;
+}
+
+h2 {
+    font-family: Bulmer MT Std Display;
+    font-size: 30px;
+    color: black; 
+    position: absolute;
+    top: 1680px;
+    left: 200px;
+}
+
+h3 {
+    position: absolute;
+    top: 2300px;
+    right: 60px;
+    font-size: 30px;
+}
+
+a {
+    color:black;
+}

@@ -16,7 +16,7 @@ h1{
 
 h2{
     font-family: Bulmer MT Std;
-    font-size: 30px;
+    font-size: 39px;
     color: white;
     position: absolute;
     top: 370px;
@@ -25,11 +25,11 @@ h2{
 
 h3 {
     font-family: Bulmer MT Std;
-    font-size: 30px;
+    font-size: 39px;
     color: white;
     position: absolute;
     top: 400px;
-    left: 350px;
+    left: 360px;
 }
 
 .line {
@@ -41,18 +41,18 @@ h3 {
 
 h4{
     font-family: Bulmer MT Std;
-    font-size: 30px;
+    font-size: 39px;
     color: white;
     position: absolute;
-    top: 380px;
-    left: 1100px;
+    top: 371px;
+    left: 1070px;
 }
 
 .lonely {
     position: absolute;
-    top: 373px;
-    left: 1168px;
-    width: 10.5%;
+    top: 386px;
+    left: 1166px;
+    width: 12%;
 }
 
 
@@ -61,7 +61,7 @@ h5 {
     font-size: 28px;
     color: white;
     position: absolute;
-    top: 720px;
+    top: 730px;
     left: 590px;
 
 }
