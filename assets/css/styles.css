@@ -27,7 +27,8 @@ i {
     font-family: Bulmer MT Std Display;
     color: rgb(90, 90, 90);
     position: relative;
-    top: 400px;
+    top: 425px;
+    left: 13px;
     font-size: 30px;
     opacity: 0.2;
     transition: 0.5s;
