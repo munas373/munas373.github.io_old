@@ -1,0 +1,40 @@
+body {
+    background-color: black;
+}
+
+h1 {
+font-family: Bulmer BT, Italic;
+font-size: 25px;
+color: white; 
+position: absolute;
+margin-top: 3%;
+left: 70px;
+opacity: 0.3;
+}
+
+
+h2 {
+    font-family: Bulmer MT Std;
+    font-size: 30px;
+    color: white;
+    position: absolute;
+    left: 610px;
+    top: 420px;
+}
+
+h3 {
+    font-family: Bulmer MT Std;
+    font-size: 30px;
+    color: white;
+    position: absolute;
+    left: 618px;
+    top: 450px;
+}
+
+
+.circle {
+    position: relative;
+    top: 200px;
+    left: 460px;
+    width: 36%;
+}
