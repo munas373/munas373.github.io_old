@@ -5,14 +5,14 @@ h1 {
     font-size: 25px;
     color: white; 
     position: absolute;
-    margin-top: 3%;
+    margin-top: 5%;
     left: 70px;
     opacity: 0.8;
     }
     
 
 body {
-    background: grey;
+    background: black;
     margin: 0;
     padding: 0;
     font-size: 0;
@@ -23,18 +23,18 @@ html, body, .wrapper {
 }
 
 .column {
-    font-size: 100px;
+    font-size: 80px;
     font-family: Bulmer MT Std;
     width: 50%;
     height: 100%;
     display: inline-block;
     vertical-align: top;
     padding-top: 15%;
-    padding-left: 10%;
+    padding-left: 20%;
 }
 
 .content {
-    background: grey;
+    background: black;
     font-size: 20px;
 }
 
@@ -44,42 +44,43 @@ ul, li {
     list-style: none;
 }
 
+.nav-item {
+    color: rgb(39, 39, 39);
+}
+
 .nav-item:hover, .active {
-    background: #000;
+    background: rgb(0, 0, 0);
     color: white;
     cursor: pointer;
 }
 
-.green {background: #B8E986;}
-.blue {background: #4A90E2;}
-.red {background: #D0021B;}
-.sol-lewitt{background: url(../img/sol-lewitt.gif);}
+.Just {background-image: url(../img/just.jpg);}
 
-.slay{
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background: black;
-    color: white;
-    font-size: 200px;
-}
+.go {background-image: url(../img/go.jpg);}
 
-.slay span {
+.with {background-image: url(../img/with.jpg);}
+
+.the{background: url(../img/the.jpg);}
+
+.flow{background: url(../img/flow.gif);}
+
+
+p {
     position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%,-50%);
+    top: 780px;
+    left: 60px;
+    font-size: 30px;
+    text-decoration: none;
 }
 
-.close {
-    font-size: 80px;
+h2 {
     position: absolute;
-    top: 30px;
-    right: 30px;
-    cursor: pointer;
+    top: 780px;
+    right: 70px;
+    font-size: 30px;
+    text-decoration: none;
 }
 
-.hide {display: none;}
+
+
 
