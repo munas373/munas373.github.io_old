@@ -1,44 +1,85 @@
-body { 
-    font-size: 20px;
-    color: rgb(41, 41, 41);
-    font-family: Bulmer, serif;
+* {box-sizing: border-box;}
+
+h1 {
+    font-family: Bulmer BT, Italic;
+    font-size: 25px;
+    color: white; 
+    position: absolute;
+    margin-top: 3%;
+    left: 70px;
+    opacity: 0.8;
+    }
     
+
+body {
+    background: grey;
+    margin: 0;
+    padding: 0;
+    font-size: 0;
 }
 
+html, body, .wrapper {
+    height: 100%;
+}
 
-.parent div{
+.column {
+    font-size: 100px;
+    font-family: Bulmer MT Std;
+    width: 50%;
+    height: 100%;
     display: inline-block;
-    width: 48%;
-    height: 1100PX;
+    vertical-align: top;
+    padding-top: 15%;
+    padding-left: 10%;
 }
 
-
-.image1 img{
-    position: relative;
-    width: 80%;
-    left: -10px;
-    top: 50px;
+.content {
+    background: grey;
+    font-size: 20px;
 }
 
-.image2 img {   
-    position: relative;
-    width: 80%;
-    left: 164px;
-    top: 500px;
- }
-
- .Letter1:hover {
-     position: relative;
-     color:rgb(207, 207, 207);
- }
- 
-
-p {
-    text-align: center;
-    color: #59B48C;
-    font-family: Bulmer BT, italic;
+ul, li {
+    margin: 0;
+    padding: 0;
+    list-style: none;
 }
 
-a:hover {
-    color: rgb(41, 41, 41);
+.nav-item:hover, .active {
+    background: #000;
+    color: white;
+    cursor: pointer;
 }
+
+.green {background: #B8E986;}
+.blue {background: #4A90E2;}
+.red {background: #D0021B;}
+.sol-lewitt{background: url(../img/sol-lewitt.gif);}
+
+.slay{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: black;
+    color: white;
+    font-size: 200px;
+}
+
+.slay span {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+.close {
+    font-size: 80px;
+    position: absolute;
+    top: 30px;
+    right: 30px;
+    cursor: pointer;
+}
+
+.hide {display: none;}
+

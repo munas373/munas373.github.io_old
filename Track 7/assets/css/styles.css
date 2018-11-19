@@ -1,0 +1,44 @@
+body { 
+    font-size: 20px;
+    color: rgb(41, 41, 41);
+    font-family: Bulmer, serif;
+    
+}
+
+
+.parent div{
+    display: inline-block;
+    width: 48%;
+    height: 1100PX;
+}
+
+
+.image1 img{
+    position: relative;
+    width: 80%;
+    left: -10px;
+    top: 50px;
+}
+
+.image2 img {   
+    position: relative;
+    width: 80%;
+    left: 164px;
+    top: 500px;
+ }
+
+ .Letter1:hover {
+     position: relative;
+     color:rgb(207, 207, 207);
+ }
+ 
+
+p {
+    text-align: center;
+    color: #59B48C;
+    font-family: Bulmer BT, italic;
+}
+
+a:hover {
+    color: rgb(41, 41, 41);
+}
