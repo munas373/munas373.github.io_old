@@ -1,0 +1,115 @@
+body {
+    background-color: #3E3E3E;
+    margin: 0;
+    padding: 0;
+}
+
+.wrapper {
+    max-width: 500px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+
+h1 {
+    font-family: Bulmer BT, Italic;
+    font-size: 25px;
+    color: white;
+    opacity: 0.2;
+    text-align: center;
+    width: 100%;
+    padding: 0;
+    margin-top: 10%;
+}
+
+h2{
+    font-family: Bulmer MT Std;
+    font-size: 36px;
+    color: white;
+    position: absolute;
+    top: 230px;
+    left: 50px;
+}
+
+h3{
+    font-family: Bulmer MT Std;    
+    font-size: 60px;
+    color: white;
+    position: absolute;
+    top: 360px;
+    left: 80px;
+}
+
+h4{
+    font-family: Bulmer MT Std;    
+    font-size: 80px;
+    color: white;
+    position: absolute;
+    top: 480px;
+    left: 120px;
+}
+
+h5{
+    font-family: Bulmer MT Std;    
+    font-size: 80px;
+    color: white;
+    position: absolute;
+    top: 620px;
+    left: 180px;
+}
+
+h6{
+    font-family: Bulmer MT Std, Regular;    
+    font-size: 20px;
+    color: white;
+    position: absolute;
+    top: 1100px;
+    left: 80px;
+}
+
+h7 {
+    font-family: Bulmer BT, Italic;    
+    font-size: 20px;
+    color: white;
+    position: absolute;
+    top: 1145px;
+    left: 110px;
+}
+
+
+h8 {
+    font-family: Bulmer MT Std;    
+    font-size: 20px;
+    color: white;
+    position: absolute;
+    top: 1146px;
+    right: 63px;
+}
+
+h9 {
+    font-family: Bulmer MT Std;    
+    font-size: 30px;
+    color: white;
+    margin-bottom: 3%;
+    position: absolute;
+    top: 3px;
+    right: 75px;
+}
+
+img{
+    position: absolute;
+    top: 120px;
+    right: 10px;
+    width: 80%;
+}
+
+a {
+    font-family: Bulmer MT Std;    
+    font-size: 30px;
+    color: white;
+    margin-bottom: 6%;
+    position: absolute;
+    top: 1400px;
+    left: 25px;
+}
+

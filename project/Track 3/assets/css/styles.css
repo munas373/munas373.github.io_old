@@ -1,0 +1,147 @@
+h1 {
+    font-family: Bulmer BT, Italic;
+    font-size: 25px;
+    color: black; 
+    position: absolute;
+    margin-top: 3%;
+    left: 70px;
+    opacity: 0.3;
+}
+
+h2 {
+    font-family: Bulmer MT Std;
+    font-size: 30px;
+    color: black;
+    position: absolute;
+    top: 300px;
+    left: 300px;
+}
+
+h3 {
+    font-family: Bulmer MT Std;
+    font-size: 30px;
+    color: black;
+    position: absolute;
+    top: 330px;
+    left: 300px;
+}
+
+h4 {
+    font-family: Bulmer MT Std;
+    font-size: 30px;
+    color: black;
+    position: absolute;
+    top: 560px;
+    left: 300px;
+}
+
+
+h5 {
+    font-family: Bulmer MT Std;
+    font-size: 30px;
+    color: black;
+    position: absolute;
+    top: 580px;
+    left: 300px;
+}
+
+
+.pocket {
+    position: absolute;
+    top: 200px;
+    left: 500px;
+    width: 60%;
+}
+
+h6 {
+    font-family: Bulmer BT, Italic;
+    font-size: 18px;
+    color: black;
+    opacity: 0.18;
+    position: absolute;
+    top: 815px;
+    left: 720px;
+}
+
+
+h7 {
+    font-family: Bulmer MT Std Display;
+    font-size: 26px;
+    color: black;
+    position: absolute;
+    top: 1360px;
+    left: 620px;
+    margin-bottom: 30%;
+}
+
+.arrow {
+    position: absolute;
+    top: 1430px;
+    left: 870px;
+    width: 12%;
+}
+
+h8 {
+    font-family: Bulmer MT Std Display;
+    font-size: 22px;
+    color: black;
+    opacity: 0.6;
+    position: absolute;
+    top: 1690px;
+    left: 1010px;
+}
+
+h9 {
+    font-family: Bulmer MT Std Display;
+    font-size: 22px;
+    color: black;
+    opacity: 0.6;
+    position: absolute;
+    top: 1580px;
+    left: 420px;
+}
+
+.arrow2 {
+    position: absolute;
+    top: 1430px;
+    left: 460px;
+    width: 12%;
+}
+
+
+.arrow3 {
+    position: absolute;
+    top: 1230px;
+    left: 430px;
+    width: 10%;
+}
+
+h10 {
+    font-family: Bulmer MT Std Display;
+    font-size: 22px;
+    color: black;
+    opacity: 0.6;
+    position: absolute;
+    top: 1240px;
+    left: 348px;
+}
+
+p {
+    position: absolute;
+    color: white;
+    top: 1730px;
+    left: 50px;
+    font-size: 30px;
+}
+
+h11 {
+    position: absolute;
+    color: white;
+    top: 1770px;
+    left: 1400px;
+    font-size: 30px; 
+}
+
+a {
+    color: black;
+}

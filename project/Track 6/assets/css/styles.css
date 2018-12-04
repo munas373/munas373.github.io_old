@@ -1,0 +1,86 @@
+* {box-sizing: border-box;}
+
+h1 {
+    font-family: Bulmer BT, Italic;
+    font-size: 25px;
+    color: white; 
+    position: absolute;
+    margin-top: 5%;
+    left: 70px;
+    opacity: 0.8;
+    }
+    
+
+body {
+    background: black;
+    margin: 0;
+    padding: 0;
+    font-size: 0;
+}
+
+html, body, .wrapper {
+    height: 100%;
+}
+
+.column {
+    font-size: 80px;
+    font-family: Bulmer MT Std;
+    width: 50%;
+    height: 100%;
+    display: inline-block;
+    vertical-align: top;
+    padding-top: 15%;
+    padding-left: 20%;
+}
+
+.content {
+    background: black;
+    font-size: 20px;
+}
+
+ul, li {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.nav-item {
+    color: rgb(39, 39, 39);
+}
+
+.nav-item:hover, .active {
+    background: rgb(0, 0, 0);
+    color: white;
+    cursor: pointer;
+}
+
+.Just {background-image: url(../img/just.jpg);}
+
+.go {background-image: url(../img/go.jpg);}
+
+.with {background-image: url(../img/with.jpg);}
+
+.the{background: url(../img/the.jpg);}
+
+.flow{background: url(../img/flow.gif);}
+
+
+p {
+    position: absolute;
+    top: 780px;
+    left: 60px;
+    font-size: 30px;
+    text-decoration: none;
+}
+
+h2 {
+    position: absolute;
+    top: 780px;
+    right: 70px;
+    font-size: 30px;
+    text-decoration: none;
+}
+
+
+
+
