@@ -1,80 +1,88 @@
+.wrapper {
+    max-width: 500px;
+    width: 100%;
+    margin: 0 auto;
+}
+
 h1 {
     font-family: Bulmer BT, Italic;
     font-size: 25px;
-    color: black; 
-    position: absolute;
-    margin-top: 3%;
-    left: 70px;
-    opacity: 0.5;
+    color: black;
+    opacity: 0.3;
+    text-align: center;
+    width: 100%;
+    padding: 0;
+    margin-top: 10%;
 }
 
 .left {
     position: absolute;
     top: 160px;
     left: 0px;
-    width: 38%;
+    width: 50%;
 }
 
 .right {
     position: absolute;
-    top: 800px;
+    top: 900px;
     right: 0px;
-    width: 38%;
+    width: 40%;
 }
 
 .right2 {
     position: absolute;
-    top: 340px;
+    top: 550px;
     right: 0px;
-    width: 24%;
+    width: 42%;
 }
 
 .right3 {
     position: absolute;
-    top: 1560px;
+    top: 1360px;
     right: 0px;
-    width: 48%;
+    width: 70%;
+    opacity: 0.2;
 }
 
 
 .text {
     position: absolute;
-    top: 700px;
-    left: 690px;
-    width: 4%;
+    top: 400px;
+    left: 165px;
+    width: 14%;
     opacity: 0.7;
     margin-bottom: 8%;
 }
 
 .left2 {
     position: absolute;
-    top: 1380px;
-    left: -400px;
-    width: 60%;
+    top: 1080px;
+    left:-40px;
+    width: 80%;
     opacity: 0.2;
 }
 
 
 p {
     position: absolute;
-    top: 2300px;
-    left: 60px;
+    top: 1900px;
+    left: 35px;
     font-size: 30px;
 }
 
 h2 {
     font-family: Bulmer MT Std Display;
-    font-size: 30px;
-    color: black; 
+    font-size: 20px;
+    color: rgb(61, 61, 61); 
     position: absolute;
-    top: 1680px;
-    left: 200px;
+    top: 1170px;
+    left: 50px;
 }
 
 h3 {
     position: absolute;
-    top: 2300px;
-    right: 60px;
+    top: 1900px;
+    right: 35px;
     font-size: 30px;
 }
 

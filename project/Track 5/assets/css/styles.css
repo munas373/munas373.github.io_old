@@ -1,3 +1,21 @@
+.wrapper {
+    max-width: 500px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+h1 {
+    font-family: Bulmer BT, Italic;
+    font-size: 25px;
+    color: rgb(255, 255, 255);
+    opacity: 0.3;
+    left: 0px;
+    width: 100%;
+    padding: 0;
+    margin-top: 10%;
+}
+
+
 body {
     background-color: black;
 }
