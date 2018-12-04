@@ -1,83 +1,92 @@
 body {
     background-color: black;
+    margin: 0;
+    padding: 0;
 }
 
 
-h1{
+.wrapper {
+    max-width: 500px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+
+h1 {
     font-family: Bulmer BT, Italic;
     font-size: 25px;
     color: white;
-    position: absolute;
-    margin-top: 3%;
-    left: 70px;
     opacity: 0.3;
+    text-align: center;
+    width: 100%;
+    padding: 0;
+    margin-top: 10%;
 }
-
 
 h2{
     font-family: Bulmer MT Std;
-    font-size: 39px;
+    font-size: 20px;
     color: white;
     position: absolute;
     top: 370px;
-    left: 300px;
+    left: 60px;
 }
 
 h3 {
     font-family: Bulmer MT Std;
-    font-size: 39px;
+    font-size: 20px;
     color: white;
     position: absolute;
-    top: 400px;
-    left: 360px;
+    top: 390px;
+    left: 90px;
 }
 
 .line {
     position: absolute;
-    top: 190px;
-    left: 715px;
-    width: 4.5%;
+    top: 270px;
+    left: 175px;
+    width: 10%;
 }
 
 h4{
     font-family: Bulmer MT Std;
-    font-size: 39px;
+    font-size: 20px;
     color: white;
     position: absolute;
-    top: 371px;
-    left: 1070px;
+    top: 360px;
+    right: 90px;
 }
 
 .lonely {
     position: absolute;
-    top: 386px;
-    left: 1166px;
-    width: 12%;
+    top: 371px;
+    right: 4px;
+    width: 23%;
 }
 
 
 h5 {
     font-family: Bulmer MT Std;
-    font-size: 28px;
+    font-size: 18px;
     color: white;
     position: absolute;
-    top: 730px;
-    left: 590px;
+    top: 630px;
+    left: 86px;
 
 }
 
 p {
     position: absolute;
     color: white;
-    top: 782px;
-    left: 50px;
+    top: 730px;
+    left: 35px;
     font-size: 30px;
 }
 
 h7 {
     position: absolute;
-    top: 810px;
-    left: 1410px;
+    top: 760px;
+    right: 30px;
     color: white;
     font-size: 30px;
 }
