@@ -3,13 +3,14 @@
 h1 {
     font-family: Bulmer BT, Italic;
     font-size: 25px;
-    color: white; 
-    position: absolute;
-    margin-top: 5%;
-    left: 70px;
-    opacity: 0.8;
-    }
-    
+    color: white;
+    opacity: 0.3;
+    text-align: center;
+    width: 100%;
+    padding: 0;
+    margin-top: 10%;
+}
+
 
 body {
     background: black;
@@ -23,7 +24,8 @@ html, body, .wrapper {
 }
 
 .column {
-    font-size: 80px;
+    font-size: 50px;
+    left: 10px;
     font-family: Bulmer MT Std;
     width: 50%;
     height: 100%;
@@ -67,16 +69,15 @@ ul, li {
 
 p {
     position: absolute;
-    top: 780px;
-    left: 60px;
+    top: 720px;
+    left: 35px;
     font-size: 30px;
-    text-decoration: none;
 }
 
 h2 {
     position: absolute;
-    top: 780px;
-    right: 70px;
+    top: 724px;
+    right: 35px;
     font-size: 30px;
     text-decoration: none;
 }

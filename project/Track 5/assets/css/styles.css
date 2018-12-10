@@ -4,17 +4,6 @@
     margin: 0 auto;
 }
 
-h1 {
-    font-family: Bulmer BT, Italic;
-    font-size: 25px;
-    color: rgb(255, 255, 255);
-    opacity: 0.3;
-    left: 0px;
-    width: 100%;
-    padding: 0;
-    margin-top: 10%;
-}
-
 
 body {
     background-color: black;
@@ -23,124 +12,124 @@ body {
 
 .eyes1 {
     position: relative;
-    top: 200px;
-    left: -300px;
-    width: 10%;
+    top: -20px;
+    left: 30px;
+    width: 20%;
 }
 
 .eyes2 {
     position: relative;
-    top: 100px;
-    left: 500px;
-    width: 10%;
+    top: 200px;
+    left: 50px;
+    width: 20%;
 }
 
 .eyes3 {
     position: relative;
-    top: -400px;
-    left: 300px;
-    width: 10%;
+    top: -130px;
+    left: 30px;
+    width: 20%;
 }
 
 
 .eyes4 {
     position: relative;
-    top: 300px;
-    left: -100px;
-    width: 10%;
+    top: 360px;
+    left: 90px;
+    width: 20%;
 }
 
 .eyes5 {
     position: relative;
-    top: -200px;
-    left: -1000px;
-    width: 10%;
+    top: 240px;
+    left: 10px;
+    width: 20%;
 }
 
 .eyes6 {
     position: relative;
-    top: -380px;
-    left:-650px;
-    width: 10%;
+    top: -290px;
+    left: 50px;
+    width: 20%;
 }
 
 .eyes7 {
     position: relative;
-    top: -200px;
-    left: 1100px;
-    width: 10%;
+    top: -230px;
+    left: 170px;
+    width: 20%;
 }
 
 .eyes8 {
     position: relative;
-    top: -50px;
-    left: -100px;
-    width: 10%;
+    top: 270px;
+    left: -110px;
+    width: 20%;
 }
 
 .eyes9 {
     position: relative;
-    top: 250px;
-    left: 200px;
-    width: 10%;
+    top: 350px;
+    left: -100px;
+    width: 20%;
 }
 
 .eyes10 {
     position: relative;
-    top: -350px;
-    left: 860px;
-    width: 10%;
+    top: -150px;
+    left: 20px;
+    width: 20%;
 }
 
-
 h1 {
-font-family: Bulmer BT, Italic;
-font-size: 25px;
-color: white; 
-position: absolute;
-margin-top: 3%;
-left: 70px;
-opacity: 0.3;
+    font-family: Bulmer BT, Italic;
+    font-size: 25px;
+    color: white;
+    opacity: 0.3;
+    text-align: center;
+    width: 100%;
+    padding: 0;
+    margin-top: 10%;
 }
 
 
 h2 {
     font-family: Bulmer MT Std;
-    font-size: 30px;
+    font-size: 20px;
     color: white;
     position: absolute;
-    left: 610px;
-    top: 420px;
+    left: 110px;
+    top: 380px;
 }
 
 h3 {
     font-family: Bulmer MT Std;
-    font-size: 30px;
+    font-size: 20px;
     color: white;
     position: absolute;
-    left: 618px;
-    top: 450px;
+    left: 115px;
+    top: 400px;
 }
 
 
 .circle {
     position: relative;
-    top: 200px;
-    left: 460px;
-    width: 36%;
+    top: 212px;
+    left: 65px;
+    width: 68%;
 }
 
 p {
     position: absolute;
-    top: 780px;
-    left: 60px;
+    top: 720px;
+    left: 35px;
     font-size: 30px;
 }
 
 h4 {
     position: absolute;
-    top: 775px;
-    right: 70px;
+    top: 708px;
+    right: 35px;
     font-size: 30px;
 }
 
