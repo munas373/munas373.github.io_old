@@ -114,8 +114,9 @@ a {
     font-size: 20px;
     position: absolute;
     top: 1800px;
-    left: 170px;
-    margin-bottom: 20%;
+    left: 180px;
+    padding-bottom: 20%;
     text-decoration: none;
     color: rgb(73, 73, 73);
+
 }

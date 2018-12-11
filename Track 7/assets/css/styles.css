@@ -135,14 +135,6 @@ h6:hover:after{
     left: 1210px;
 }
 
-.h8:hover{color:rgb(156, 0, 0);}
-
-.h8:hover:after{
-    content: url(../img/plant4.jpg);
-    position: absolute;
-    bottom: 3px;
-    right: 350px;
-}
 
 .h9{
     font-family: Bulmer BT Std;
@@ -152,21 +144,13 @@ h6:hover:after{
     position: absolute;
     top: 1000px;
     left: 1195px;
-    margin-bottom: 5%;
 }
 
-.h9:hover{color:rgb(156, 0, 0);}
-
-.h9:hover:after{
-    content: url(../img/plant5.jpg);
-    position: absolute;
-    bottom: 122px;
-    right: 357px;
-}
 
 p {
     font-family: Bulmer BT, italic;
     position: absolute;
     bottom: -230px;
     left: 750px;
+    padding-bottom: 5%;
 }
