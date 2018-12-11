@@ -101,6 +101,7 @@ img{
     top: 120px;
     right: 10px;
     width: 80%;
+    opacity: 0.3;
 }
 
 a {
@@ -111,5 +112,6 @@ a {
     position: absolute;
     top: 1400px;
     left: 25px;
+    margin-bottom: 15%;
 }
 

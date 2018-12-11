@@ -69,17 +69,19 @@ h7 {
 
 
 img {
-    width: 100%;
+    width: 101%;
     position: absolute;
     top: 430px;
-    left: -14px;
+    left: -16.5px;
 }
+
 
 p {
     position: absolute;
     top: 720px;
     left: 35px;
     font-size: 30px;
+    color: white;
 }
 
 h2 {
@@ -88,8 +90,8 @@ h2 {
     right: 35px;
     font-size: 30px;
     text-decoration: none;
+    color: white;
 }
-
 
 
 a{

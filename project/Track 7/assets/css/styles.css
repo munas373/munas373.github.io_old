@@ -1,12 +1,34 @@
+.wrapper {
+    max-width: 500px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+
+.flower {
+    width: 50%;
+    position: absolute;
+    top: 590px;
+    left: 100px;
+}
+
+.plant {
+    width: 50%;
+    position: absolute;
+    top: 1480px;
+    left: 95px;
+}
+
 h1 {
     font-family: Bulmer BT, Italic;
     font-size: 25px;
-    color: black; 
-    position: absolute;
-    margin-top: 3%;
-    left: 70px;
-    opacity: 0.5;
-    }
+    color:black;
+    opacity: 0.3;
+    text-align: center;
+    width: 100%;
+    padding: 0;
+    margin-top: 10%;
+}
 
 h2 {
     font-family: Bulmer BT Std;
@@ -15,16 +37,7 @@ h2 {
     cursor: pointer;
     position: absolute;
     top: 200px;
-    left: 200px;
-}
-
-h2:hover{color: black;}
-
-h2:hover:after {
-    content: url(../img/rose1.jpg);
-    position: absolute;
-    left: 400px;
-    top: 90px;
+    left: 40px;
 }
 
 h3 {
@@ -34,17 +47,9 @@ h3 {
     cursor: pointer;
     position: absolute;
     top: 290px;
-    left: 200px;
+    left: 40px;
 }
 
-h3:hover{color: black;}
-
-h3:hover:after {
-    content: url(../img/rose2.jpg);
-    position: absolute;
-    left: 400px;
-    top: -10px;
-}
 
 h4 {
     font-family: Bulmer BT Std;
@@ -53,120 +58,64 @@ h4 {
     cursor: pointer;
     position: absolute;
     top: 380px;
-    left: 200px;
+    left: 40px;
 }
 
-h4:hover{color:black;}
-
-h4:hover:after{
-    content: url(../img/rose3.jpg);
-    position: absolute;
-    top: -116px;
-    left: 400px;
-}
 
 h5{
     font-family: Bulmer BT Std;
     font-size: 50px;
     color: rgb(194, 194, 194);
-    cursor: pointer;
     position: absolute;
-    top: 460px;
-    left: 1200px;
+    top: 890px;
+    right: 40px;
 }
 
-h5:hover{color:black;}
-
-h5:hover:after {
-    content: url(../img/plant.jpg);
-    position: absolute;
-    top: 300px;
-    right: 530px;
-
-}
 
 h6{
     font-family: Bulmer BT Std;
     font-size: 50px;
     color: rgb(194, 194, 194);
-    cursor: pointer;
     position: absolute;
-    top: 540px;
-    left: 1190px;
-}
-
-h6:hover{color:black;}
-
-h6:hover:after{
-    content: url(../img/plant2.jpg);
-    position: absolute;
-    top: 93px;
-    right: 468px;
+    top: 950px;
+    right: 40px;
 }
 
 .h7{
     font-family: Bulmer BT Std;
     font-size: 50px;
     color: rgb(194, 194, 194);
-    cursor: pointer;
     position: absolute;
-    top: 770px;
-    left: 1205px;
+    top: 1160px;
+    right: 40px;
 }
 
-.h7:hover{
-    color:rgb(156, 0, 0);
-}
-
-.h7:hover:after{
-    content: url(../img/plant3.jpg);
-    position: absolute;
-    top: -78px;
-    right: 367px;
-}
 
 .h8{
     font-family: Bulmer BT Std;
     font-size: 50px;
     color: rgb(194, 194, 194);
-    cursor: pointer;
     position: absolute;
-    top: 880px;
-    left: 1210px;
-}
-
-.h8:hover{color:rgb(156, 0, 0);}
-
-.h8:hover:after{
-    content: url(../img/plant4.jpg);
-    position: absolute;
-    bottom: 3px;
-    right: 350px;
+    top: 1260px;
+    right: 40px;
 }
 
 .h9{
     font-family: Bulmer BT Std;
     font-size: 50px;
     color: rgb(194, 194, 194);
-    cursor: pointer;
     position: absolute;
-    top: 1000px;
-    left: 1195px;
-    margin-bottom: 5%;
+    top: 1360px;
+    right: 25px;
 }
 
-.h9:hover{color:rgb(156, 0, 0);}
-
-.h9:hover:after{
-    content: url(../img/plant5.jpg);
-    position: absolute;
-    bottom: 122px;
-    right: 357px;
-}
-
-p {
+a {
     font-family: Bulmer BT, italic;
+    font-size: 20px;
     position: absolute;
-    bottom: -230px;
-    left: 750px;
+    top: 1800px;
+    left: 170px;
+    margin-bottom: 20%;
+    text-decoration: none;
+    color: rgb(73, 73, 73);
 }
