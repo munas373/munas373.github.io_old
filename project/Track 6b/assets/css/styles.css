@@ -40,6 +40,12 @@ h4 {
 }
 
 
+img {
+    width: 100%;
+    position: absolute;
+    top: 430px;
+    left: -15px;
+}
 
 a{
     text-decoration: none;

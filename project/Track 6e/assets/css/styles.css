@@ -67,6 +67,14 @@ h7 {
 
 }
 
+
+img {
+    width: 100%;
+    position: absolute;
+    top: 428px;
+    left: -16px;
+}
+
 a{
     text-decoration: none;
     color:rgb(61, 61, 61);

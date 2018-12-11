@@ -68,6 +68,13 @@ h7 {
 }
 
 
+img {
+    width: 100%;
+    position: absolute;
+    top: 430px;
+    left: -14px;
+}
+
 p {
     position: absolute;
     top: 720px;
